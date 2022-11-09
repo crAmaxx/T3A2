@@ -26,8 +26,8 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 
 
 ## Etapa 3. Diseño de la solucion
-![](https://github.com/ThisIsMaik/T3A2/blob/main/T3A2.png?raw=true)
+![](https://github.com/xXkiritsuguXx/T3A2/blob/main/T3A2.png)
 
 
 ## Etapa 4. Desarrollo de la solucion
-https://github.com/ThisIsMaik/T3A2/blob/main/T3A2.zip
+https://github.com/xXkiritsuguXx/T3A2/blob/main/T3A2.zip
